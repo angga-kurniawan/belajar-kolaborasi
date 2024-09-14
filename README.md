@@ -6,6 +6,7 @@ Sequance change
 3. bagas
 4. rian
 
+# FORK ?<br>
 Fork adalah proses menyalin repository publik ke repository pribadi<br>
 di akun GitHub Anda.Ini memungkinkan Anda membuat perubahan pada<br>
 salinan repositorytersebut tanpa mempengaruhi repository asli.<br>
